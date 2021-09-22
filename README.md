@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juandloopez
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning paython, html, css, js
+- 🌱 I’m currently learning python, html, css, js
 - 📫 How to reach me: juandavlopez@gmail.com
 
 <!---
